@@ -4,11 +4,11 @@ http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/xCKhl6O.jpg",GREEK VOICE 2
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/cqguaXu.jpg",WZRA KIDS
-mms://wpso.com:200/kids
+mmsh://wpso.com:200/kids
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/l0RAL0f.jpg",TILEMOUSIKI 1 HD
 http://stream.ssh101.com:1935/live/greekmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/v8441Gk.png",TILEMOUSIKI 2
-mms://wpso.com:200/music
+mmsh://wpso.com:200/music
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/GV5wPxH.jpg",WPSO 1500
 http://wpso.com:8000/
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WXYB 1520
