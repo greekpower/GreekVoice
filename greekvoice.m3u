@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",GREEK VOICE 1
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+http://greekvideohits.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/xCKhl6O.jpg",GREEK VOICE 2
 http://greekvideohits.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/cqguaXu.jpg",WZRA KIDS
-mmsh:wpso.com:200/kids
+http://wpso.com:200/kids
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/cqguaXu.jpg",GREEK KIDS HD
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/l0RAL0f.jpg",ΤΗΛΕΜΟΥΣΙΚΗ UHD
