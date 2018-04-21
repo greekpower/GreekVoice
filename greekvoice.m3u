@@ -15,5 +15,5 @@ http://wpso.com:1936/hls/music.m3u8
 http://wpso.com:200/music
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/GV5wPxH.jpg",WPSO 1500
 http://wpso.com:200/wpso
-#EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WXYB 1520
-http://wpso.com:7071/listen.pls
+#EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
+http://magictvbox.us:1939/hls/wpso.m3u8
