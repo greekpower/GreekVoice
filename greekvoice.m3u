@@ -14,7 +14,7 @@ http://wpso.com:1936/hls/music.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/v8441Gk.png",ΤΗΛΕΜΟΥΣΙΚΗ 2
 http://wpso.com:200/music
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/GV5wPxH.jpg",WPSO 1500
-http://wpso.com:200/wpso
+http://wpso.com:8000/listen.pls
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
 http://magictvbox.us:1939/hls/wpso.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",INFINITY TRAVEL TV
