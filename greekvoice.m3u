@@ -17,3 +17,5 @@ http://wpso.com:200/music
 http://wpso.com:200/wpso
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
 http://magictvbox.us:1939/hls/wpso.m3u8
+#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",PLUTO SPACE TV
+http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
