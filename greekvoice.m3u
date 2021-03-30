@@ -17,7 +17,5 @@ http://wpso.com:1935/hls/music3.m3u8
 http://wpso.com:8000
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
 http://magictvbox.us:1939/hls/wpso.m3u8
-#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",INFINITY TRAVEL TV
-http://web.onair-radio.eu:1935/plutonchannel/plutonchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",ERT1-ERTWorld Brazil
 rtmp://wpso.com:8081/live/tv1
