@@ -12,6 +12,6 @@ http://65.108.62.57:8080/live/greekmusic.m3u8
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/GV5wPxH.jpg",WPSO 1500
 http://wpso.com:8000
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
-http://magictvbox.us:1939/hls/wpso.m3u8
+http://65.108.62.57:8080/live/radio.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",ERT1-ERTNews Brazil
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newslow.m3u8
