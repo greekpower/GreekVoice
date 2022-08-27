@@ -1,17 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",GREEK VOICE 1
 http://65.108.62.57:8080/live/greektv1.m3u8
-#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/xCKhl6O.jpg",GREEK VOICE 2
-http://65.108.62.57:8080/live/greektv1.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://i.imgur.com/xCKhl6O.jpg",GREEK VOICE Radio HD 2
+http://65.108.62.57:8080/live/radio.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/cqguaXu.jpg",GREEK KIDS HD
-http://wpso.com:1936/hls/kidshd.m3u8
+http://65.108.62.57:8080/live/kids.m3u8
 #EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/l0RAL0f.jpg",ΤΗΛΕΜΟΥΣΙΚΗ UHD
-http://65.108.62.57:8080/live/greekmusic.m3u8
-#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/l0RAL0f.jpg",ΤΗΛΕΜΟΥΣΙΚΗ 1 HD
 http://65.108.62.57:8080/live/greekmusic.m3u8
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/GV5wPxH.jpg",WPSO 1500
 http://wpso.com:8000
 #EXTINF:-1 group-title="ΡΑΔΙΟΦΩΝΟ" tvg-logo="http://i.imgur.com/KtxFDcn.jpg",WPSO 1500
 http://65.108.62.57:8080/live/radio.m3u8
-#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",ERT1-ERTNews Brazil
+#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",ERT-News Brazil
 http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newslow.m3u8
+#EXTINF:-1 group-title="ΤΗΛΕΟΡΑΣΗ" tvg-logo="http://i.imgur.com/rAhTA3I.jpg",ERT-WORLD Brazil
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world_4Mbps.m3u8
+
